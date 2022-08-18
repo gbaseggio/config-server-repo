@@ -1,0 +1,3 @@
+random:
+  property:
+    value: value loaded from git repo
